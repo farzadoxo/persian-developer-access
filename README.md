@@ -7,12 +7,12 @@
 # نحوه استفاده:
 آدرس ها بر اساس نوع سرویس دسته بندی شدند.با استفاده از لینک های زیر میتونید به لینک سرویس ها دسترسی داشته باشید:
 
-### [Mirrors](https://github.com/farzadoxo/persian-developer-access/blob/master/mirrors.md)
-### [Hosting](https://github.com/farzadoxo/persian-developer-access/blob/master/hosting.md)
-### [Documentations](https://github.com/farzadoxo/persian-developer-access/blob/master/documentations.md)
-### [Repository Tools](https://github.com/farzadoxo/persian-developer-access/blob/master/repository-tools.md)
-### [Dev Tools](https://github.com/farzadoxo/persian-developer-access/blob/master/dev-tools.md)
-### [Educational](https://github.com/farzadoxo/persian-developer-access/blob/master/educational.md)
+### [🪞Mirrors](https://github.com/farzadoxo/persian-developer-access/blob/master/mirrors.md)
+### [🖥️Hosting](https://github.com/farzadoxo/persian-developer-access/blob/master/hosting.md)
+### [📄Documentations](https://github.com/farzadoxo/persian-developer-access/blob/master/documentations.md)
+### [🐈Repository Tools](https://github.com/farzadoxo/persian-developer-access/blob/master/repository-tools.md)
+### [🛠️Dev Tools](https://github.com/farzadoxo/persian-developer-access/blob/master/dev-tools.md)
+### [📚Educational](https://github.com/farzadoxo/persian-developer-access/blob/master/educational.md)
 
 # نحوه مشارکت:
 این ریپوزیتوری با مشارکت شما رشد خواهد کرد.این وظیفه انسانی ماست که در مواجهه با شرایط قطعی اینترنت موجب ایجاد و حفظ جریان اطلاعات آزاد علمی باشیم.
